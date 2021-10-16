@@ -13,6 +13,6 @@ public class Interval {
         } else if (num1 > 35 && num1 <= 50)  { System.out.println("Значение "+num1+" попадает в интервал [36 - 50]");
         } else if (num1 > 50 && num1 <= 100) { System.out.println("Значение "+num1+" попадает в интервал [51 - 100]");
         } else                               {System.out.println("Значение "+num1+" не попадает ни в однин интервал [0 - 100]");
-                }
+               }
     }
 }
