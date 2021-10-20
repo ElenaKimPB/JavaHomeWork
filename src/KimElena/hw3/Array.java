@@ -43,6 +43,6 @@ public class Array {
                 }
             }
         }
-        System.out.println(" Отсортированный массив " + Arrays.toString(myArr));
+        System.out.println(" Отсортированный массив: " + Arrays.toString(myArr));
     }
 }
