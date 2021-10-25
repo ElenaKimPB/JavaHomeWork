@@ -1,7 +1,5 @@
 package KimElena.hw4;
 
-import java.util.Scanner;
-
 /*public class Anagram {
    /* public static void main(String[] args) {
         String text1;
